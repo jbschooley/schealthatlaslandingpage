@@ -1,4 +1,4 @@
 schealthatlaslandingpage
 ========================
 
-The landing page for the SC Health Atlas project. See at schealthatlas.org and at github.com/jlegrone/schealthatlas
+The landing page for the SC Health Atlas project. See at <a href="schealthatlas.org">schealthatlas.org</a> and at <a href="github.com/jlegrone/schealthatlas">github.com/jlegrone/schealthatlas</a>.
